@@ -12,7 +12,7 @@
     ],
     "autoload": {
       "psr-4": {
-        "aval24\\czname\\": ""
+        "aval24\\czname\\": "src\\"
       }
     },
     "minimum-stability": "stable"
