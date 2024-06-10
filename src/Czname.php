@@ -2,7 +2,7 @@
 
 namespace aval24\czname;
 
-class Cznames
+class Czname
 {
     const PREFIX_PATTERNS = [
 		'/^Bc./i',
