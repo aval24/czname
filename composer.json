@@ -1,0 +1,19 @@
+{
+    "name": "aval24/czname",
+    "description": "Routines for normalizing and formatting czech names and personal info",
+    "keywords": ["czech", "formatting"],
+    "homepage": "http://github.com/",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Konstantin Bogdanov",
+        "email": "2519869@gmail.com"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "aval24\\czname\\": ""
+      }
+    },
+    "minimum-stability": "stable"
+  }
