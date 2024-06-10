@@ -23,11 +23,11 @@ to the `require` section of your composer.json.
 ## Usage
 
 ```php
-use aval24\czname\Cznames;
+use aval24\czname\Czname;
 
 $name = "Mgr. JANA TALÁKOVÁ";
 
-$test1 = Cznames::purge($name);
+$test1 = Czname::purge($name);
 
 echo "Source: $name\n"; 
 echo "Result: $test1\n";
