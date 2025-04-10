@@ -15,7 +15,7 @@ php composer.phar require --prefer-dist aval24/czname "*"
 or add
 
 ```json
-"aval24/cz-routines": "*"
+"aval24/czname": "*"
 ```
 
 to the `require` section of your composer.json.
